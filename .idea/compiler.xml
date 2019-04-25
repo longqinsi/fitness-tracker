@@ -9,5 +9,11 @@
         <module name="FitnessTracker" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="7" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="FitnessTracker" options="" />
+    </option>
   </component>
 </project>
